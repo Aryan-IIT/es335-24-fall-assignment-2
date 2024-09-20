@@ -7,6 +7,10 @@
 ### Task synopsis 
 [Task 1 notebook](Task1.ipynb)
 
+[Task 2 notebook](Task2.ipynb)
+
+[Task 3 notebook]()
+
 **Total marks: 10 (This assignment total to 20, we will overall scale by a factor of 0.5)**
 
 ## Task 1 : Ascending the Gradient Descent [6 marks]

@@ -9,7 +9,7 @@
 
 [Task 2 notebook](task2-assignment2.ipynb)
 
-[Task 3 notebook]()
+[Task 3 notebook](task3-assignment3.ipynb)
 
 [Task 4 notebook](Task4.ipynb)
 

@@ -5,7 +5,7 @@
 - Rishabh Jogani (https://github.com/rishabhh-7)
 
 ### Task synopsis 
-[Task 1 notebook](Task1.ipynb)!
+[Task 1 notebook](Task1.ipynb)
 
 **Total marks: 10 (This assignment total to 20, we will overall scale by a factor of 0.5)**
 

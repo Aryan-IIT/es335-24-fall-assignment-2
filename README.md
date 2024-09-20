@@ -7,9 +7,13 @@
 ### Task synopsis 
 [Task 1 notebook](Task1.ipynb)
 
-[Task 2 notebook](Task2.ipynb)
+[Task 2 notebook](task2-assignment2.ipynb)
 
 [Task 3 notebook]()
+
+[Task 4 notebook](Task4.ipynb)
+
+[Task 5 notebook](task5.ipynb)
 
 **Total marks: 10 (This assignment total to 20, we will overall scale by a factor of 0.5)**
 

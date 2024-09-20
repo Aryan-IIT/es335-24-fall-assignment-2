@@ -1,4 +1,9 @@
-# Assignment 2 
+# Assignment 2 Group - Sabarmati Sigmoid
+- Aryan Solanki (https://github.com/Aryan-IIT)
+- Nupoor Assudani (https://github.com/nupoor-ka)
+- Pranav Thakkar (https://github.com/Pranav4860)
+- Rishabh Jogani (https://github.com/rishabhh-7)
+
 
 **Total marks: 10 (This assignment total to 20, we will overall scale by a factor of 0.5)**
 

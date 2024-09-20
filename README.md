@@ -48,7 +48,7 @@ Begin by exploring the [instructor's notebook](https://github.com/nipunbatra/ml-
 
 2. **Audio Reconstruction** - Pick a 5-second audio sample of your liking. Use Random Fourier Features (RFF) and Linear Regression to learn the mapping from time $(t)$ to amplitude $(A)$, where $t$ is the time point, and $A$ is the audio amplitude at that time. Play the reconstructed audio and the original audio to demonstrate reconstruction. Calculate the Root Mean Squared Error (RMSE) and Signal-to-Noise Ratio (SNR) to evaluate the reconstruction. **[1.5 Mark]**
 
-Note : Please notice that generally PSNR is used for images while SNR is used for audio signals.
+Note : Please notice that generally PSNR is used for images while SNR is used for audio signals
 
 ## Task 3 : Super-Resolution using Random Fourier Features (RFF)  [4 Marks]
 
